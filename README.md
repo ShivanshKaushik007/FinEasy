@@ -18,7 +18,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with the latest Next.js and TypeScript, Finan Smart is an advanced AI financial advice tool. It allows users to input their income, expenses, and budgets, and receive personalized financial advice based on their financial data. This project is perfect for those looking to learn how to integrate AI-driven insights and financial management into a Next.js application.
+Built with the latest Next.js and TypeScript, FinEasy is an advanced AI financial advice tool. It allows users to input their income, expenses, and budgets, and receive personalized financial advice based on their financial data. This project is perfect for those looking to learn how to integrate AI-driven insights and financial management into a Next.js application.
 
 
 
@@ -96,4 +96,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="snippets">🕸️ Assets & Code</a>
 
-The repository includes all the assets and code you need to get started with Finan Smart. Follow along with our YouTube tutorial for a step-by-step guide.
+The repository includes all the assets and code you need to get started with FinEasy. Follow along with our YouTube tutorial for a step-by-step guide.
