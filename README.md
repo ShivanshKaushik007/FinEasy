@@ -96,4 +96,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="snippets">🕸️ Assets & Code</a>
 
-The repository includes all the assets and code you need to get started with FinEasy. Follow along with our YouTube tutorial for a step-by-step guide.
+The repository includes all the assets and code you need to get started with FinEasy. 
